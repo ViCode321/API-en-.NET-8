@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **ASP.NET 8 Web API con Azure y Clean Architecture**
 
 ## Descripción
@@ -79,7 +78,4 @@ La aplicación sigue el patrón de **Clean Architecture** para organizar el cód
    ```bash
    git clone https://github.com/ViCode321/API-en-.NET-8.git
    cd API-en-.NET-8
-=======
-# API-en-.NET-8
-WEB API en .NET 8, desarrollada en clean arquitecture, y servicios en AZURE, como WEB APP, BD, KeyVault, Insights.
->>>>>>> 7c8e255760c68c1cf53cbc2920145b18f48e0e11
+
