@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Esta es una API construida con **.NET 8** utilizando **Clean Architecture**. La aplicación ofrece una serie de funcionalidades que incluyen autenticación basada en **JWT**, integración con **Azure**, **envío de correos**, **monitoreo de API**, **creación de recursos en Azure** y **seguridad con Azure Key Vault**. Además, la aplicación proporciona documentación interactiva de la API a través de **Swagger**.
+Esta es una API construida con **.NET 8** utilizando **Clean Architecture**. La API ofrece una serie de funcionalidades que incluyen autenticación basada en **JWT**, integración con **Azure**, **envío de correos**, **monitoreo de API**, **creación de recursos en Azure** y **seguridad con Azure Key Vault**. Además, la aplicación proporciona documentación interactiva de la API a través de **Swagger**.
 
 ## Funcionalidades
 
