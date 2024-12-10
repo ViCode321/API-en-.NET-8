@@ -1,0 +1,37 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:16009",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "",
+      "applicationUrl": "http://localhost:5055",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "local",
+        "clientId": "TU_ID_DE_USUARIO_CREADO_EN_AZURE_PARA_USAR_WEB_APP",
+        "tenantId": "TU_DIRECTORY_ID_CREADO_EN_AZURE_BOOKING_VAULT_PROPERTIES",
+        "clientSecret": "TU_CLIENT_SECRET_CREADO_EN_AZURE_PARA_USAR_WEB_APP"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "local",
+        "clientId": "TU_ID_DE_USUARIO_CREADO_EN_AZURE_PARA_USAR_WEB_APP",
+        "tenantId": "TU_DIRECTORY_ID_CREADO_EN_AZURE_BOOKING_VAULT_PROPERTIES",
+        "clientSecret": "TU_CLIENT_SECRET_CREADO_EN_AZURE_PARA_USAR_WEB_APP"
+      }
+    }
+  }
+}
